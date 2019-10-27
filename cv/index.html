@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<section id="one" >
+    <div class="container">
+        {% for post in site.posts limit:1 %}
+        	<p>See my CV below or download it with this <a href="{{ site.baseurl }}/cv/CV.pdf">link</a>. </p>
+        	<embed src="CV.pdf" width="800px" height="2100px" />
+	{% endfor %}
+    </div>
+</section>
