@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Joint inversion of S-wave azimuthal anisotropy"
+date:   2014-07-31
+categories: update
+---
+
+<img src="{{ site.baseurl }}/images/3D_ani1.png">
+
+Shear-Wave Splitting (SWS) of seismic waves in an anisotropic medium can degrade the quality when imaging the subsurface. In this work we propose to complementary use surface and body waves in order to quantify the anisotropic properties of the subsurface. The results from a joint inversion can then be used to compensate for shear-wave splitting and obtain a higher image quality (see figure below).
+
+<img src="{{ site.baseurl }}/images/sws_correction.png">
+
+This was my M.Sc. thesis project which I carried out at Schlumberger in Gatwick, UK. <br />
+Read my report <a href="{{ site.baseurl }}/docs/MSc_APG_Julian_Kuehnert.pdf">here</a>.

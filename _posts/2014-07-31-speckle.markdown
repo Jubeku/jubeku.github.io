@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Speckle interferometry"
+date:   2014-07-31
+categories: update
+---
+
+<img src="{{ site.baseurl }}/images/speckle1.png">
+
+Ultrasound is a very well known technique for medical diagnostics where body tissues are imaged based on varying reflectivity. In this project, ultrasonic imaging is used to visualize the evolution of internal deformation of a gel bulk. This is realized by cross-correlation of successive images. See the experimental set-up and an example of the resulting field of displacement below. <br />
+The experiments can help to better understand the stress distribution within the Earth's crust and thus to reconstruct earthquake scenarios.
+
+<img src="{{ site.baseurl }}/images/speckle2.png">
+
+This project was my B.Sc. thesis which I carried out at ISTerre in Grenoble, France. <br />
+Read my report <a href="{{ site.baseurl }}/docs/BSc_Physics_Julian_Kuehnert.pdf">here</a>.

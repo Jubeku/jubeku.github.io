@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Fourier transform spectroscopy"
+date:   2013-05-27
+categories: update
+---
+
+<img src="{{ site.baseurl }}/images/spectrometer1.png">
+The objective of this project was to install a parabolic collection mirror in front of a vacuum ultraviolet (VUV) Fourier transform spectrometer in order to enable measurements even in case of low beam intensities. The set-up of the spectrometer is illustrated in the sketch below with collection mirror *C*. The instrument was first tested with visible light before moving it to the HHG-laboratory where measurements with high-energy pulses were conducted.
+
+
+<img src="{{ site.baseurl }}/images/spectrometer2.png">
+
+This project was carried out at Uppsala University during my B.Sc studies. <br />
+Read my report <a href="{{ site.baseurl }}/docs/FTS_Julian_Kuehnert.pdf">here</a>.
