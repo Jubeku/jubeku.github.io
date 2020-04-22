@@ -1,0 +1,1 @@
+convert -density 150 CV.pdf -quality 90 CV.png
