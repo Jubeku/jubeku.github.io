@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "3D Urban Point Clouds"
+date:   2019-12-20
+categories: update
+---
+
+
+<img src="{{ site.baseurl }}/images/urban_point_cloud.png">
+Highly recommended: Alan Turing Institute's Data Study Group in London! 
+
+The Data Study Group was an inspiring week full of great encounters and interesting project. With my team of around 15 data scientists from diverse backgrounds I worked on the semantic segmentation of 3D Point Clouds, proposed by <a href="https://www.sensat.co.uk/">**Sensat**</a>.
+
+The other challenge owners and their projects:
+
+* **WWF:** Smart monitoring for conservation areas
+* **Dstl:** Identification of hazardous chemical and biological contamination on surfaces using spectral signatures
+* **Dstl:** Bright-field image segmentation
+* **The National Archives:** Discovering topics and trends in the UK Government Web Archive
+* **Agile Datum:** Automating the evaluation of local government planning applications
+
+Stay tuned for the reports which will be available online soon!
